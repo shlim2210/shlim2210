@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rossi22)](https://solved.ac/rossi22/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlim2210&show_icons=true&theme=gruvbox)
 
  
